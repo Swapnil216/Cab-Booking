@@ -1,3 +1,2 @@
-# Uber-like
-Uber-like app in JAVA (Desktop project)
+Cab-Booking app in JAVA (Desktop project)
 College project
